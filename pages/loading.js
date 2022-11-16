@@ -14,7 +14,7 @@ export default function Home() {
         <meta name="description" content="Band for beginner" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Body></Body>
+      loading...
 
 
     </Layout>
